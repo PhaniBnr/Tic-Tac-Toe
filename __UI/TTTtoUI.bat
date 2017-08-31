@@ -1,0 +1,1 @@
+C:\Python27\python.exe C:\Python27\Lib\site-packages\PyQt4\uic\pyuic.py -x E:\python\Project\TicTacToe\__UI\TTTUI.ui -o E:\python\Project\TicTacToe\__UI\TTTPY.py
