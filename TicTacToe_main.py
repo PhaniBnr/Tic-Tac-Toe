@@ -129,7 +129,7 @@ class ttt(QtGui.QMainWindow, TTTPY.Ui_MainWindow):
                 self.lineEdit.setText("Player1 Term !!! -- O")
                 self.input_val = "O"
             else:
-                self.lineEdit.setText("Player1 Term !!! -- X")
+                self.lineEdit.setText("Player2 Term !!! -- X")
                 self.input_val = "X"
             self.moves-=1
             self.checker()
