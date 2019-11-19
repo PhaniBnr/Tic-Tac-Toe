@@ -212,7 +212,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(_translate("MainWindow", "TicTacToe", None))
-        self.lineEdit.setText(_translate("MainWindow", "  Choose your mark among the below to START", None))
+        self.lineEdit.setText(_translate("MainWindow", "  Choose your mark from the below to START", None))
         self.choice_x.setText(_translate("MainWindow", "X", None))
         self.choice_o.setText(_translate("MainWindow", "O", None))
 
